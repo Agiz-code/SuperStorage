@@ -7,7 +7,6 @@ const nextConfig: NextConfig = {
   eslint: {
     ignoreDuringBuilds: true,
   },
-  /* config options here */
 };
 
 // next.config.js
@@ -19,4 +18,3 @@ module.exports = {
 };
 
 export default nextConfig;
-// 67359043000ff97f57a0 attribute "bucketField" keys /// old one "67344d1b000b81a185de" 
